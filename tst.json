@@ -26,7 +26,7 @@
         ],
         "exportToResourceSpecific": true,
         "identity": {
-          "type": "SystemAssigned"  // or "UserAssigned"
+          "type": "SystemAssigned"
         },
         "destination": {
           "resourceId": "/subscriptions/b94dd326-4ef4-4002-bc9e-ce739b32a706/resourceGroups/MSFT_PPE_Ehub_RG/providers/Microsoft.EventHub/namespaces/IAMUT-EventHub-PPEns"
